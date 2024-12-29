@@ -1,6 +1,4 @@
-# Laravel Hotel Room Booking
-
-## Screenshot 
+# Screenshot 
 
 ![Laravel Hotel Room Booking](https://laraveldaily.com/wp-content/uploads/2020/01/Screen-Shot-2020-01-15-at-10.06.19-AM.png)
 
